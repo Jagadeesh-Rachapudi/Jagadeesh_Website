@@ -61,6 +61,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,
@@ -98,7 +99,7 @@ a:hover {
   transition: var(--transition);
 }
 
-.btn :hover{
+.btn :hover {
   background: var(--color-white);
   color: var(--color-bg);
   border-color: transparent;
@@ -117,16 +118,16 @@ img {
 
 /*============MEDIA QUERIES (MEDIUM DEVICES) ================*/
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width: 1024px) {
   .container {
     width: var(--container-width-md);
   }
-  section  {
+  section {
     margin-top: 6rem;
   }
 }
 /*============MEDIA QUERIES (SMALL DEVICES) ================*/
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px) {
   .container {
     width: var(--container-width-sm);
   }
