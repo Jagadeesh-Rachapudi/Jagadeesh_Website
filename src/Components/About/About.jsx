@@ -18,7 +18,7 @@ function About() {
             />
           </div>
         </div>
-        <div className="about__container">
+        <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
@@ -37,17 +37,16 @@ function About() {
               <h5>Projects</h5>
               <small>80+ Completed</small>
             </article>
-
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut iste
-              at, magnam cupiditate vero aliquam, sunt modi atque quibusdam et
-              hic deleniti ratione autem sit aspernatur perferendis, cumque nisi
-              sapiente.
-            </p>
-            <a href="#contact" className="btn btn-primary">
-              Lets talk
-            </a>
           </div>
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut iste
+            at, magnam cupiditate vero aliquam, sunt modi atque quibusdam et hic
+            deleniti ratione autem sit aspernatur perferendis, cumque nisi
+            sapiente.
+          </p>
+          <a href="#contact" className="btn btn-primary">
+            Lets talk
+          </a>
         </div>
       </div>
     </section>
