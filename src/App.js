@@ -1,9 +1,9 @@
 import Nav from "./Components/Nav/Nav";
 import Hedder from "./Components/Hedder/Hedder";
 import About from "./Components/About/About";
-import Contacts from "./Components/Contacts/Contacts";
+import Contact from "./Components/Contact/Contact";
 import Experiance from "./Components/Experiance/Experiance";
-import Footers from "./Components/Footers/Footers";
+import Footer from "./Components/Footer/Footer";
 import Testimonials from "./Components/Testimonials/Testimonials";
 import Services from "./Components/Services/Services";
 import Portfolio from "./Components/Portfolio/Portfolio";
@@ -18,8 +18,8 @@ function App() {
       <Services />
       <Portfolio />
       <Testimonials />
-      <Contacts />
-      <Footers />
+      <Contact />
+      <Footer />
     </>
   );
 }
