@@ -1,6 +1,5 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
-import CV from "../../Asserts/cv.pdf";
 
 function CTA() {
   return (
