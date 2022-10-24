@@ -85,11 +85,11 @@ function Experiance() {
                 <small className="text-light">Beginner</small>
               </div>
             </article>
-            <article className="Experiance__details">
+            <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
                 <h4>JAVA</h4>
-                <small className="text-light">Experianced</small>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experiance__details">
