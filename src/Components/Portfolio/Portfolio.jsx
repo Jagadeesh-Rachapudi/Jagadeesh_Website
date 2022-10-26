@@ -71,7 +71,7 @@ function Portfolio() {
               <div className="portfolio__item-image">
                 <img src={image} />
               </div>
-              <h3>This is portfolio item title</h3>
+              <h3> {title} </h3>
               <div className="portfolio__item-cta">
                 <a href={github} target="_blank" className="btn">
                   GitHub
