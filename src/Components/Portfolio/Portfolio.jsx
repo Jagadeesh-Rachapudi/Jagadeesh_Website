@@ -7,55 +7,55 @@ const data = [
   {
     id: 1,
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2FP1.jpg?alt=media&token=1731f131-5ac0-4145-8ad0-c0c9060100e3",
-    title: "Eclipse - Figma dashboard UI kit for data design web apps",
-    github: "https://github.com/",
-    demo: "https://dribbble.com/shots/19660926-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
+      "https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/proj1.jpg?alt=media&token=84d8bab8-bd43-4c55-850f-5808395b74a8",
+    title: "Landing Page of Gauge website",
+    github: "https://github.com/Jagadeesh-Rachapudi/Gauge",
+    demo: "https://gauge-one.vercel.app/",
   },
 
   {
     id: 2,
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2FP2.jpg?alt=media&token=be85cbba-4352-4ee9-be9a-960c745f3053",
-    title: "Orion UI kit for Figma",
-    github: "https://github.com/",
-    demo: "https://dribbble.com/shots/19551559-Orion-UI-kit-for-Figma",
+      "https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/proj2.jpg?alt=media&token=c901827e-5125-40e7-82c4-0380d79396ed",
+    title: "TO-DO App",
+    github: "https://github.com/Jagadeesh-Rachapudi/To-Do",
+    demo: "https://to-do-e1wc.vercel.app/",
   },
 
   {
     id: 3,
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2FP3.jpg?alt=media&token=e05b102e-a2d5-403f-b0dd-1c84809fdcbd",
-    title: "Eclipse - Figma dashboard UI kit for data design web apps",
-    github: "https://github.com/",
-    demo: "https://dribbble.com/shots/19314442-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
+      "https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/proj%203.jpg?alt=media&token=1527f7ab-fe31-4b1c-bd98-8e7a23af67d8",
+    title: "Tesla Landing Page",
+    github: "https://github.com/Jagadeesh-Rachapudi/Tesla-Lanading-Page",
+    demo: "https://tesla-lanading-page.vercel.app/",
   },
 
   {
     id: 4,
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2FP4.jpg?alt=media&token=4ff9bf37-3403-4dda-aefe-4c27e3d941b8",
-    title: "Orion UI kit - Charts templates & infographics in Figma",
-    github: "https://github.com/",
-    demo: "https://dribbble.com/shots/19301108-Orion-UI-kit-Charts-templates-infographics-in-Figma",
+      "https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/proj%204.jpg?alt=media&token=81ac604f-a268-480e-8992-79d986c08cdf",
+    title: "CartMax a ecommerce website",
+    github: "https://github.com/Jagadeesh-Rachapudi/CartMaxTS",
+    demo: "https://cart-max-ts-9cyg.vercel.app/",
   },
 
   {
     id: 5,
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2FP5.jpg?alt=media&token=c7b92915-a5a2-424c-ab47-e0c4374fc6dc",
-    title: "Orion UI kit - Charts templates & infographics in Figma",
-    github: "https://github.com/",
-    demo: "https://dribbble.com/shots/19103850-Orion-UI-kit-Charts-templates-infographics-in-Figma",
+      "https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/proj5.jpg?alt=media&token=fdb023a7-75c6-4b28-ad7b-f0034f868f92",
+    title: "My own Portfolio website",
+    github: "https://github.com/Jagadeesh-Rachapudi/Jagadeesh_Website",
+    demo: "https://jagadeesh-portfolio.vercel.app/",
   },
 
   {
     id: 6,
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2FP6.jpg?alt=media&token=ad3cb15c-19eb-4d12-86d3-2c53bd149f15",
-    title: "Eclipse - Figma dashboard UI kit for data design web apps",
-    github: "https://github.com/",
-    demo: "https://dribbble.com/shots/18672453-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
+      "https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/proj6.jpg?alt=media&token=0942eea4-5b15-4661-9697-ee09889786b1",
+    title: "A portfolio website from a figma desin ",
+    github: "https://github.com/Jagadeesh-Rachapudi/portfolio",
+    demo: "https://portfolio-znit.vercel.app/",
   },
 ];
 

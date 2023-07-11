@@ -8,7 +8,7 @@ function Hedder() {
       <div className="container hedder__container">
         <h5>Hello I'm</h5>
         <h1>Jagadeesh</h1>
-        <h5 className="text-light">Fullstack Devolper</h5>
+        <h5 className="text-light">Frontend Devolper</h5>
         <CTA />
         <HedderSocials />
         <div className="me">

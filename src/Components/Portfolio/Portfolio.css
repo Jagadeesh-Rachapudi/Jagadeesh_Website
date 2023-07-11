@@ -9,6 +9,9 @@
   border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
+  display: flex;
+  flex-direction: column;
+  height: 22rem;
 }
 .portfolio__item:hover {
   border-color: var(--color-primary-variant);
@@ -19,12 +22,15 @@
   overflow: hidden;
 }
 .portfolio__item h3 {
-  margin: 1.2 0 2rem;
+  margin: auto;
 }
 .portfolio__item-cta {
   display: flex;
-  gap: 1rem;
-  margin-bottom: 1rem;
+  gap: 1.5rem;
+  /* margin-bottom: 1rem; */
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 /*================== MEDIA QUERIES(MEDIUM DEVICES) ====================*/
 

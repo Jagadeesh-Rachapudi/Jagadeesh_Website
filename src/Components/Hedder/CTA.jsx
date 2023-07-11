@@ -5,12 +5,12 @@ function CTA() {
   return (
     <div className="cta">
       <a
-        href="https://firebasestorage.googleapis.com/v0/b/portfolio-39221.appspot.com/o/Jagaddesh%20Portfolio%2Fcv.pdf?alt=media&token=44320022-4e67-43ce-b07b-a8bfddf72376"
+        href="https://firebasestorage.googleapis.com/v0/b/peronal-stuff-61ac6.appspot.com/o/FrontEnd_Resume%20Original.pdf.pdf?alt=media&token=64530bf2-e6fc-4cc5-98cd-1fab38b3b695"
         download
         className="btn"
         target="_blank"
       >
-        Download CV
+        View Resume
       </a>
       <a href="#contact" className="btn btn-primary">
         Let's Talk

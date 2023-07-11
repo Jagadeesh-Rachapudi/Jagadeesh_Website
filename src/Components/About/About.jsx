@@ -23,26 +23,26 @@ function About() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiance</h5>
-              <small>3+ years Working</small>
+              <small>1+ year Working</small>
             </article>
 
-            <article className="about__card">
+            {/* <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>200+ Worldwide</small>
-            </article>
+            </article> */}
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>14+ Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut iste
-            at, magnam cupiditate vero aliquam, sunt modi atque quibusdam et hic
-            deleniti ratione autem sit aspernatur perferendis, cumque nisi
-            sapiente.
+            I was an enthusiastic frontend developer who developed more than 14
+            personal projects. I have 1+ year of industry experience in frontend
+            development My passion for creating user-friendly and visually
+            appealing websites drives me to continually enhance my skills.
           </p>
           <a href="#contact" className="btn btn-primary">
             Lets talk

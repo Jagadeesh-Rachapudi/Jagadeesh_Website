@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
-import { BsFacebook, BsInstagram, BsTwitter } from "react-icons/bs";
+import { BsFacebook, BsInstagram, BsGithub } from "react-icons/bs";
 import "./Footer.css";
 function Footer() {
   return (
@@ -19,32 +19,32 @@ function Footer() {
         <li>
           <a href="#experiance">Experiance</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#services">Services</a>
-        </li>
+        </li> */}
         <li>
           <a href="#portfolio">Portfolio</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#testimonials">Testimonials</a>
-        </li>
+        </li> */}
         <li>
           <a href="#contact">Contact</a>
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="www.facebook.com">
+        <a href="https://www.facebook.com/jummangi111">
           <BsFacebook />
         </a>
-        <a href="www.instagram.com">
+        <a href="https://www.instagram.com/jaaggi.22/?hl=en">
           <BsInstagram />
         </a>
-        <a href="www.twitter.com">
-          <BsTwitter />
+        <a href="https://github.com/Jagadeesh-Rachapudi">
+          <BsGithub />
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; EGATOR Tutorials. All Rights Recived</small>
+        <small>&copy; All Rights Recived</small>
       </div>
     </footer>
   );

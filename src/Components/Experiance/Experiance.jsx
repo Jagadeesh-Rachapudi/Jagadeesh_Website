@@ -27,21 +27,21 @@ function Experiance() {
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>JavaScript</h4>
+                <h4>SCSS</h4>
                 <small className="text-light">Experianced</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>React</h4>
+                <h4>Javascript</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>Angular</h4>
+                <h4>ReactJS</h4>
                 <small className="text-light">Experianced</small>
               </div>
             </article>
@@ -60,42 +60,42 @@ function Experiance() {
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>NodeJs</h4>
+                <h4>Data Structures</h4>
                 <small className="text-light">Experianced</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>MongoDB</h4>
+                <h4>Algorithams</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>SQL</h4>
+                <h4>NodeJS</h4>
                 <small className="text-light">Experianced</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>PHP</h4>
+                <h4>SQL</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>JAVA</h4>
+                <h4>C</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
             <article className="experiance__details">
               <BsPatchCheckFill className="experiance__details-icon" />
               <div>
-                <h4>Python</h4>
+                <h4>C++</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
